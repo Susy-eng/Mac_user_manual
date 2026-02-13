@@ -1,7 +1,7 @@
 # Mac Terminal Command Cheat Sheet
-- Pause a downloading task
-Press Control + Z simultaneously.
-- To see a list of suspended processes 
+- Pause a downloading task \n
+Press Control + Z simultaneously.\n
+- To see a list of suspended processes
 `jobs`
 - To resume the pause download
 `fg %x`
